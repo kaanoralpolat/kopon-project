@@ -48,7 +48,6 @@
 
 ## 💬 İletişim
 
- http://kopon.tech/
  koponteach.gmail.com
 
 ---
