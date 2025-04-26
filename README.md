@@ -48,8 +48,8 @@
 
 ## 💬 İletişim
 
-📩 kopon@gmail.com
-   www.kopon.teach
+ www.kopon.tech
+ koponteach.gmail.com
 
 ---
 
