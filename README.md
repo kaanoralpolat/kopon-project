@@ -8,7 +8,6 @@
 **KOPON**, afet anlarında, özellikle enkaz altında kalan bireylerin konum ve varlıklarını bildirebilmeleri için geliştirilen dijital sinyal sistemidir.
 
 - 🧠 Geliştirici: Kaan Oral Polat
-- 🤖 Destek: ChatGPT (OpenAI)
 - 📟 Sistem: ESP32 + TFT + Wi-Fi + LED + Buzzer
 - 🔊 Yardımcısı: **IZ** adlı tetikleyici cihaz
 
