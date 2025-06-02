@@ -53,7 +53,7 @@
 
 ## 🛡️ Lisans ve Koruma
 
-Bu proje bireysel amaçla geliştirilmiş, kamu yararına sunulmuştur.  
+Bu proje bireysel amaçla geliştirilmiş, 
 Tüm içerikler geliştiriciye aittir. İzinsiz kullanılamaz.
 
 > **KOPON – Sessiz çığlığın sesi.**
