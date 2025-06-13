@@ -33,9 +33,9 @@
 
 ## 🛰️ Çalışma Prensibi
 
-1. Birey, IZ cihazındaki butona basar.
-2. Cihaz, aynı lokal ağ içinde KOPON sistemine sabit bir sinyal gönderir.
-3. KOPON ekranında bireyin kimlik bilgileri (örneğin: İSİM ve TCKN) görsel olarak sunulur.
+1. Birey, KOPON cihazındaki butona basar.
+2. Cihaz, aynı lokal ağ içinde KOPON Merkez sistemine sabit bir sinyal gönderir.
+3. KOPON ekranında bireyin kimlik bilgileri (örneğin: İSİM ve Bireye Özel bir kod) görsel olarak sunulur.
 4. Sistemde **GPS veya canlı konum takibi bulunmaz**; ancak bireyin cihazı tanımlıdır.
 5. Görsel blink efektleri ve 30 saniyelik geri sayım ekranı bulunur.
 
